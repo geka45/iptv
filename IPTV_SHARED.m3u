@@ -1119,8 +1119,8 @@ https://mhd128.iptv2022.com/p/riY2mAD_1Mv8vmgySDgo-A,1748552409/streaming/ribalk
 #EXTINF:-1 tvg-id="the-fishing-hunting" group-title="Познавательные", The Fishing and Hunting
 http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="oxota-i-rybalka" group-title="Познавательные",Охота и рыбалка
-http://api.peers.tv/timeshift/hafi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg1OTExODAsImlhdCI6MTc0ODUwNDc4MCwiY2lkIjo2LCJ1aWQiOjkyMDA3Njk1MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.guRRiY_0n1DxbUwGN8xZOHnjkCbKxWJYnMFcXNWNq6Q&offset=3
+#EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="Познавательные",Охота и рыбалка
+http://109.248.236.51/ohota_i_ribalka/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="dialogi-o-rybalke" group-title="Познавательные", Диалоги о рыбалке
 http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg1OTExODAsImlhdCI6MTc0ODUwNDc4MCwiY2lkIjo2LCJ1aWQiOjkyMDA3Njk1MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.guRRiY_0n1DxbUwGN8xZOHnjkCbKxWJYnMFcXNWNq6Q&offset=3
