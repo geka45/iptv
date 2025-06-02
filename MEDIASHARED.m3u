@@ -6793,20 +6793,58 @@ http://s2.gencit.info/vod/films/squid.game.s01e08.webdl.1080pkyle_352820/hls/ind
 #EXTINF:-1 group-title="Игра в кальмара" tvg-logo="http://lostfilms.fun/uploads/posts/2021-08/serial-igra-v-kalmara-1-sezon-2021.jpg", Серия 9 (сезон 1)
 http://s2.gencit.info/vod/films/squid.game.s01e09.webdl.1080pkyle_352821/hls/index.m3u8
 
-#EXTINF:-1 group-title="Игра в кальмара 2" tvg-logo="https://i.postimg.cc/RCWX5SsX/1.jpg", Серия 1 (сезон 2)
-http://s6.gencit.info/vod/films/squid.game.s02e01.bread.and.lottery.1080p.nf.webdl.h.264eniahd_872285/hls/index.m3u8
-#EXTINF:-1 group-title="Игра в кальмара 2" tvg-logo="https://i.postimg.cc/RCWX5SsX/1.jpg", Серия 2 (сезон 2)
-http://s1.gencit.info/vod/films/squid.game.s02e02.halloween.party.1080p.nf.webdl.h.264eniahd_872283/hls/index.m3u8
-#EXTINF:-1 group-title="Игра в кальмара 2" tvg-logo="https://i.postimg.cc/RCWX5SsX/1.jpg", Серия 3 (сезон 2)
-http://s6.gencit.info/vod/films/squid.game.s02e03.001.1080p.nf.webdl.h.264eniahd_872284/hls/index.m3u8
-#EXTINF:-1 group-title="Игра в кальмара 2" tvg-logo="https://i.postimg.cc/RCWX5SsX/1.jpg", Серия 4 (сезон 2)
-http://s1.gencit.info/vod/films/squid.game.s02e04.six.legs.1080p.nf.webdl.h.264eniahd_872286/hls/index.m3u8
-#EXTINF:-1 group-title="Игра в кальмара 2" tvg-logo="https://i.postimg.cc/RCWX5SsX/1.jpg", Серия 5 (сезон 2)
-http://s6.gencit.info/vod/films/squid.game.s02e05.one.more.game.1080p.nf.webdl.h.264eniahd_872289/hls/index.m3u8
-#EXTINF:-1 group-title="Игра в кальмара 2" tvg-logo="https://i.postimg.cc/RCWX5SsX/1.jpg", Серия 6 (сезон 2)
-http://s1.gencit.info/vod/films/squid.game.s02e06.o.x.1080p.nf.webdl.h.264eniahd_872287/hls/index.m3u8
-#EXTINF:-1 group-title="Игра в кальмара 2" tvg-logo="https://i.postimg.cc/RCWX5SsX/1.jpg", Серия 7 (сезон 2)
-http://s6.gencit.info/vod/films/squid.game.s02e07.friend.or.foe.1080p.nf.webdl.h.264eniahd_872288/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! 1 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e01.2020.webdl.1080p.getty/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! 2 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e02.2020.webdl.1080p.getty/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! 3 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e03.2020.webdl.1080p.getty/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! 4 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e04.2020.webdl.1080p.getty/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! 5 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e05.2020.webdl.1080p.getty/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! 6 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e06.2020.webdl.1080p.getty/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! 7 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e07.2020.webdl.1080p.getty/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! 8 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e08.2020.webdl.1080p.getty/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка!: История создания
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e09.film.o.seriale.2020.webdl.1080p.getty/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! [ 2 сезон] 1 серия
+
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/01.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! [ 2 сезон] 2 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/02.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! [ 2 сезон] 3 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/03.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! [ 2 сезон] 4 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/04.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! [ 2 сезон] 5 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/05.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! [ 2 сезон] 6 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/06.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! [ 2 сезон] 7 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/07.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! [ 2 сезон] 8 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/08.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
 
 #EXTINF:-1 group-title="Любовь смерть и роботы" tvg-logo="http://lostfilms.fun/uploads/posts/2019-08/serial-ljubov-smert-i-roboty-1-sezon-2019.jpg", Серия 1 (сезон 1)
 http://s3.gencit.info/vod/films/love.death..robots.s01e01.1080p.nf.webdl.rus.eng_thd_269208/hls/index.m3u8
