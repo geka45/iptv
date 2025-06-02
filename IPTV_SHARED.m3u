@@ -3053,6 +3053,9 @@ https://stream-msk-03.ott.tricolor.tv/dtv/id130_MSKSG-PVR-1--Muz_Perv/04/plst.m3
 #EXTVLCOPT:http-user-agent=SmartTV
 https://hls.goodgame.ru/hls/201891.m3u8
 
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://cdn6.aptoide.com/imgs/e/1/2/e12bbdf574fd07074569e5e5dca57f40_icon.jpg" group-title="Музыкальные", RETRO PLUS
+https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w1122432165.m3u8
+
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i1.sndcdn.com/artworks-000098219086-gthd6m-t500x500.jpg" group-title="Музыкальные", TECHNO DANCE MUSIC
 #EXTVLCOPT:http-user-agent=SmartTV
 http://hlss.goodgame.ru/hls/180509.m3u8
