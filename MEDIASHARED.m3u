@@ -10251,3 +10251,12 @@ http://s2.gencit.info/vod/films/dcs.legends.of.tomorrow.s07e11.1080p.rus.lostfil
 http://s2.gencit.info/vod/films/dcs.legends.of.tomorrow.s07e12.1080p.rus.lostfilm.tv_367974/hls/index.m3u8
 #EXTINF:-1 group-title="Легенды завтрашнего дня" tvg-logo="https://i.postimg.cc/05BZ95Mz/1.jpg", Серия 13 (сезон 7)
 http://s6.gencit.info/vod/films/dcs.legends.of.tomorrow.s07e13.1080p.rus.lostfilm.tv_390579/hls/index.m3u8
+
+#EXTINF:-1 group-title="Назад в будущее", Назад в будущее (1985г)
+https://u.to/nogUIQ
+#EXTINF:-1 group-title="Назад в будущее", Назад в будущее 2 (1989г)
+https://u.to/o4gUIQ
+#EXTINF:-1 group-title="Назад в будущее", Назад в будущее 3 (1990г)
+https://u.to/p4gUIQ
+
+
