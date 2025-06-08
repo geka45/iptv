@@ -2035,7 +2035,7 @@ http://cdn1.starcinemax.fun:2095/0053/index.m3u8?token=137946825
 http://cdn1.starcinemax.fun:2095/0005/index.m3u8?token=137946825
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms великолепный век" group-title="Кинозалы CMS",CMS Великолепный век
 http://cdn1.starcinemax.fun:2095/0355/index.m3u8?token=137946825
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms вестерн" group-title="Кинозалы CMS",CMS Вестерн [1280x548@60]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms вестерн" group-title="Кинозалы CMS",CMS Вестерн
 http://cdn1.starcinemax.fun:2095/0192/index.m3u8?token=137946825
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms виктор сухоруков" group-title="Кинозалы CMS",CMS Виктор Сухоруков
 http://cdn1.starcinemax.fun:2095/0426/index.m3u8?token=137946825
